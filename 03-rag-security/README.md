@@ -9,4 +9,4 @@ Security considerations for Retrieval-Augmented Generation systems.
 - Vector database security
 - Access control at retrieval layer
 
-See [Pre-Deployment Checklist](../../checklists/pre-deployment-checklist.md) for RAG-specific controls.
+See [Pre-Deployment Checklist](../checklists/pre-deployment-checklist.md) for RAG-specific controls.
