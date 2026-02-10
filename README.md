@@ -57,16 +57,16 @@ This repository contains my study notes and research on AI/ML security, compiled
 
 **New to AI Security?** Start here:
 1. [GenAI Security Basics](GenAI-LLM-Security/README.md)
-2. [Common Attack Scenarios](docs/05-practical-examples/attack-scenarios.md)
+2. [Common Attack Scenarios](examples/attack-scenarios.md)
 3. [Pre-Deployment Checklist](checklists/pre-deployment-checklist.md)
 
 **Implementing RAG?** Focus on:
-- [RAG Security Overview](docs/03-rag-security/README.md)
+- [RAG Security Overview](03-rag-security/README.md)
 - [RAG Security Checklist](checklists/rag-security-checklist.md)
 
 **Building AI Agents?** Review:
-- [Agent Protocol Security](docs/04-agent-protocols/README.md)
-- [MCP Security Considerations](docs/04-agent-protocols/mcp-security.md)
+- [Agent Protocol Security](04-agent-protocols/README.md)
+- [MCP Security Considerations](04-agent-protocols/mcp-security.md)
 
 ## 🤝 Contributing
 
