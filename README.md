@@ -28,21 +28,21 @@ This repository contains my study notes and research on AI/ML security, compiled
    - Model development & supply chain security
    - Deployment operations & monitoring
 
-2. **[GenAI & LLM Security](docs/02-genai-llm-security/)**
+2. **[GenAI & LLM Security](02-genai-llm-security/)**
    - Prompt injection (direct & indirect)
    - Data leakage & training data extraction
    - Model integrity & jailbreaking
 
-3. **[RAG Security](docs/03-rag-security/)**
+3. **[RAG Security](03-rag-security/)**
    - Document poisoning attacks
    - Cross-context information leakage
    - Vector database security
 
-4. **[Agent Protocols](docs/04-agent-protocols/)**
+4. **[Agent Protocols](04-agent-protocols/)**
    - A2A (Agent-to-Agent) security implications
    - MCP (Model Context Protocol) vulnerabilities
 
-5. **[Practical Examples](docs/05-practical-examples/)**
+5. **[Practical Examples](05-practical-examples/)**
    - Real-world attack scenarios
    - Defense patterns and implementations
 
