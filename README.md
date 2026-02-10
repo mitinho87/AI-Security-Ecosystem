@@ -1,3 +1,5 @@
+<img width="2816" height="1536" alt="AI-ML GenAI Security" src="https://github.com/user-attachments/assets/cb6d7a4c-4cfa-42aa-940c-12c3b231a8af" />
+
 # AI/ML Security Study Guide
 
 > A comprehensive guide to securing AI/ML systems, covering GenAI, LLMs, RAG architectures, and emerging agent collaboration protocols.
@@ -9,7 +11,6 @@
 This repository contains my study notes and research on AI/ML security, compiled while preparing for AI security roles. It synthesizes concepts from formal training, hands-on experience building AI agents, and enterprise security implementation.
 
 **Author:** Milton Ramos  
-**Background:** Senior Application Security Specialist with experience in AppSec, DevSecOps, and AI security
 
 **Key Topics Covered:**
 - 🔄 AI/ML Development Lifecycle Security
@@ -22,7 +23,7 @@ This repository contains my study notes and research on AI/ML security, compiled
 
 ### Core Concepts
 
-1. **[AI/ML Lifecycle Security](docs/01-ai-ml-lifecycle/)**
+1. **[AI/ML Lifecycle Security](AI-ML-Lifecycle/)**
    - Data pipeline security & training data poisoning
    - Model development & supply chain security
    - Deployment operations & monitoring
