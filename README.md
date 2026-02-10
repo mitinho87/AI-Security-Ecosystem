@@ -1,6 +1,6 @@
 <img width="2816" height="1536" alt="AI-ML GenAI Security" src="https://github.com/user-attachments/assets/cb6d7a4c-4cfa-42aa-940c-12c3b231a8af" />
 
-# AI/ML Security Study Guide
+# AI Security Ecosystem
 
 > A comprehensive guide to securing AI/ML systems, covering GenAI, LLMs, RAG architectures, and emerging agent collaboration protocols.
 
